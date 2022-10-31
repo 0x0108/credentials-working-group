@@ -48,3 +48,5 @@ Meetings will be held 2x a month, on Tuesdays at 9 AM PDT. For specific informat
 | [CONTRIBUTING.md](./CONTRIBUTING.md)       | Developer guide to build, test, run, access CI, chat, discuss, file issues     |
 | [GOVERNANCE.md](./GOVERNANCE.md)           | Project governance                                                             |
 | [LICENSE](./LICENSE)                       | Apache License, Version 2.0                                                    |
+
+This is my copy
